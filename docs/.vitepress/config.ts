@@ -8,7 +8,7 @@ export default defineConfig( {
         logo: '/logo.png', // 放一张你的 logo
         nav: [
             { text: '首页', link: '/' },
-            { text: '归档', link: '/archive' },
+            { text: '如如', link: '/ruru' },
             { text: '关于', link: '/about' }
         ],
         socialLinks: [
